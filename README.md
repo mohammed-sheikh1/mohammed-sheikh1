@@ -80,8 +80,8 @@
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/27/Laravel_logo.svg"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/69/JavaScript-logo.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Netlify_logo.svg"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Scikit-learn_logo.svg"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Scikit-learn_logo.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.png"></code>
 
     <hr>
     <p align="center">
