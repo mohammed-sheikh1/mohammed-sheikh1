@@ -1,4 +1,6 @@
 
+
+
   <h1 align="center">Hi 👋, I'm mohammed sheikh abduall
 <h3 align="center">front end devlopar</h3>
 
@@ -20,7 +22,6 @@
 
 
 
-<code><img height="50" src=></code>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
