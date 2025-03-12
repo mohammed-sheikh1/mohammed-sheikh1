@@ -1,5 +1,26 @@
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
     <img  height="200" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" />
   </p>
@@ -20,10 +41,11 @@
     alt="insta_ovindu" height="30" width="40" /></a>
   <a href=https://www.flaticon.com/free-icons/facebook target="blank"><img align="center" src=  https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg
     alt="fb_ovindu" height="30" width="40" /></a>
-   <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src=  https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
+   <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src=  https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png
     height="30" width="40" /></a>
   </p>
   </p>
+  
   
   <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   
@@ -37,30 +59,30 @@
   ✔ التخصيص والتجريد والربط هو نهجي في تطوير البرمجيات<br />
    
 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools...
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
   <p align="left">
-    
-    <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-    <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
-    <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-    <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
-    <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
-    <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
-    <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-    <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-    <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
-    <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
-    <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
-    <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
-    <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
-    <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
-    <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
-    <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-    <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
-    <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
-    <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
-    <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
-    <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
+    <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Git_logo.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Spyder_logo.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/68/Jupyter_logo.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/47/.NET_logo.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/67/HTML5_logo_and_wordmark.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/MySQL_logo.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Matplotlib_logo.svg" width="100"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Pandas_logo.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flask_logo.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Heroku_logo.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/33/NumPy_logo_2020.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Scipy_logo.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/27/Laravel_logo.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/69/JavaScript-logo.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Netlify_logo.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Scikit-learn_logo.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg"></code>
+
     <hr>
     <p align="center">
    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
